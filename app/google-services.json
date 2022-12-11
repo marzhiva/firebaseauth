@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889605655957",
+    "project_id": "mariami-4f563",
+    "storage_bucket": "mariami-4f563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889605655957:android:fe9a8abba3b69fb587fa9c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication12345"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889605655957-e2lbt8otc8h6gdkoivfsnn0d824d0v9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5L5eksX_6DRhQ3Hy-XEhJfqILz2KOx40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889605655957-e2lbt8otc8h6gdkoivfsnn0d824d0v9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
